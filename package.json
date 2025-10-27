@@ -1,6 +1,6 @@
 {
-    "name": "Webber_Live",
-    "homepage": "https://projectwebber.github.io/live/",
+    "name": "Webber_Beta",
+    "homepage": "https://projectwebber.github.io/beta/",
     "private": true,
     "version": "0.2.0",
     "type": "module",
