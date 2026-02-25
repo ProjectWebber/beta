@@ -1,0 +1,13 @@
+{
+    "name": "Project Webber",
+    "short_name": "Webber",
+    "icons": [
+        { "src": "/favicon-light-180x180.png", "sizes": "180x180", "type": "image/png" },
+        { "src": "/favicon-light-512x512.png", "sizes": "512x512", "type": "image/png" }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/"
+}
