@@ -2,7 +2,7 @@
     "name": "Project Webber",
     "short_name": "Webber",
     "description": "Site de criação de personagens para RPG.",
-    "start_url": "/",
+    "start_url": "beta/",
     "display": "standalone",
     "background_color": "#0f0f0f",
     "theme_color": "#00ff88",
